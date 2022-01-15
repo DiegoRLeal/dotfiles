@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = diego.leal@brasas.com
+	name = Diego Leal
